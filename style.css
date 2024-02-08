@@ -3,7 +3,8 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: rgb(238, 144, 255);
+    /* background-color: rgb(238, 144, 255); */
+    background-color: rgb(255, 144, 144);
   }
   .book{
     position: relative;
@@ -19,7 +20,7 @@
     box-shadow: 1px 1px 12px black;
     -webkit-transform: preserve-3d;
     -ms-transform: preserve-3d;
-    transform: preserve-3d; */
+    transform: preserve-3d; 
     -webkit-perspective: 2000px;
     perspective: 2000px;
   }
